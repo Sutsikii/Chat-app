@@ -41,6 +41,7 @@ body{
 }
 
 .form form .error-txt{
+    display: none;
     color: #721c24;
     background: #F8D7DA;
     padding: 8px 10px;
